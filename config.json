@@ -1,0 +1,9 @@
+{
+    "xpaths": [
+        "//div[@class='vjs-poster']",
+        "//nav[@class='prev_next']/ul/li/a[@class='next']"
+    ],
+    "chromedriver_path": "./chromedriver.exe",
+    "data_output_path": "./tmp_data",
+    "browser_path": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+}
